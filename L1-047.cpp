@@ -12,7 +12,6 @@ int main()
         if(h>20||h<15||m>70||m<50)
             cout<<s<<"\n";
     }
-
     return 0;
 
 }
