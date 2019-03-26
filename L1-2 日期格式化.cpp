@@ -1,8 +1,5 @@
 #include<bits/stdc++.h>
-<<<<<<< HEAD
-=======
 #include <iostream>
->>>>>>> c7d3c95bec05b45e024adaa4caf9858dc60d6fe6
 using namespace std;
 int main()
 {
